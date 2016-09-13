@@ -1,0 +1,10 @@
+{
+  "name": "Amn",
+  "description": "Amn technical application",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/favicon.png"
+  },
+  "default_locale": "en",
+  "type": "privileged"
+}

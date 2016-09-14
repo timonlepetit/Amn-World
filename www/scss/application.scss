@@ -19,7 +19,7 @@ $red_main: #D9534F;
 		// padding: 1rem 2rem;
 		// border-radius: 3rem;
 		// color: #FFFFFF;
-		margin-right: 5rem;
+		margin-right: 1rem;
 		// transition: all .5s ease;
 		// &:hover{
 		// 	font-size: 1.4rem;
@@ -47,7 +47,7 @@ $red_main: #D9534F;
   
   @media(min-width: 400px) {
     display: inline-block;
-    margin-right: 2.5em;
+    margin-right: 0em;
   
     &:nth-of-type(even) {
       margin-right: 0;
@@ -57,7 +57,7 @@ $red_main: #D9534F;
   @media(min-width: 600px) {
   
     &:nth-of-type(even) {
-      margin-right: 2.5em;
+      margin-right: 1em;
     }
     
     &:nth-of-type(5) {
@@ -142,6 +142,16 @@ $red_main: #D9534F;
   width: 100%;
 }
 
+.wrapper_content{
+	h1{
+		font-weight: 400;
+		letter-spacing: .1rem;
+		text-transform: uppercase;
+		font-size: 2rem;
+		margin-left: 6.5rem;
+	}
+}
+
 //scrolltotop
 #toTop{
 	font-size: 1.4rem;
@@ -180,7 +190,6 @@ body{
 	font-size: 2rem;
 	color: #FFFFFF;
 }
-
 
 nav{
 	z-index: 100;

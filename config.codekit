@@ -963,11 +963,29 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/www\/css\/animate.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/www\/css\/animate.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/www\/css\/application.css": {
 		"fileType": 16,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/www\/css\/application.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/www\/css\/normalize.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/www\/css\/normalize.min.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1201,6 +1219,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/www\/img\/cis.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 205562,
+		"inputAbbreviatedPath": "\/www\/img\/cis.png",
+		"outputAbbreviatedPath": "\/www\/img\/cis.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/www\/img\/favicon.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1208,6 +1237,160 @@
 		"initialSize": 3362,
 		"inputAbbreviatedPath": "\/www\/img\/favicon.png",
 		"outputAbbreviatedPath": "\/www\/img\/favicon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/www\/img\/logos\/ace_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9794,
+		"inputAbbreviatedPath": "\/www\/img\/logos\/ace_new.png",
+		"outputAbbreviatedPath": "\/www\/img\/logos\/ace_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/www\/img\/logos\/api_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6988,
+		"inputAbbreviatedPath": "\/www\/img\/logos\/api_new.png",
+		"outputAbbreviatedPath": "\/www\/img\/logos\/api_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/www\/img\/logos\/bms_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18106,
+		"inputAbbreviatedPath": "\/www\/img\/logos\/bms_new.png",
+		"outputAbbreviatedPath": "\/www\/img\/logos\/bms_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/www\/img\/logos\/cis_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8593,
+		"inputAbbreviatedPath": "\/www\/img\/logos\/cis_new.png",
+		"outputAbbreviatedPath": "\/www\/img\/logos\/cis_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/www\/img\/logos\/daw_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11229,
+		"inputAbbreviatedPath": "\/www\/img\/logos\/daw_new.png",
+		"outputAbbreviatedPath": "\/www\/img\/logos\/daw_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/www\/img\/logos\/dcm_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11467,
+		"inputAbbreviatedPath": "\/www\/img\/logos\/dcm_new.png",
+		"outputAbbreviatedPath": "\/www\/img\/logos\/dcm_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/www\/img\/logos\/dor.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7901,
+		"inputAbbreviatedPath": "\/www\/img\/logos\/dor.png",
+		"outputAbbreviatedPath": "\/www\/img\/logos\/dor.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/www\/img\/logos\/how_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16150,
+		"inputAbbreviatedPath": "\/www\/img\/logos\/how_new.png",
+		"outputAbbreviatedPath": "\/www\/img\/logos\/how_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/www\/img\/logos\/hpg_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12500,
+		"inputAbbreviatedPath": "\/www\/img\/logos\/hpg_new.png",
+		"outputAbbreviatedPath": "\/www\/img\/logos\/hpg_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/www\/img\/logos\/mpc_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10773,
+		"inputAbbreviatedPath": "\/www\/img\/logos\/mpc_new.png",
+		"outputAbbreviatedPath": "\/www\/img\/logos\/mpc_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/www\/img\/logos\/r2d2_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9955,
+		"inputAbbreviatedPath": "\/www\/img\/logos\/r2d2_new.png",
+		"outputAbbreviatedPath": "\/www\/img\/logos\/r2d2_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/www\/img\/logos\/sbx_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19071,
+		"inputAbbreviatedPath": "\/www\/img\/logos\/sbx_new.png",
+		"outputAbbreviatedPath": "\/www\/img\/logos\/sbx_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/www\/img\/logos\/smx.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17425,
+		"inputAbbreviatedPath": "\/www\/img\/logos\/smx.png",
+		"outputAbbreviatedPath": "\/www\/img\/logos\/smx.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/www\/img\/logos\/tct_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6195,
+		"inputAbbreviatedPath": "\/www\/img\/logos\/tct_new.png",
+		"outputAbbreviatedPath": "\/www\/img\/logos\/tct_new.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1320,12 +1503,34 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/www\/js\/animatedModal.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/www\/js\/animatedModal.min.js",
+		"outputAbbreviatedPath": "\/www\/js\/min\/animatedModal.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/www\/js\/jquery-2.2.3.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/www\/js\/jquery-2.2.3.min.js",
 		"outputAbbreviatedPath": "\/www\/js\/min\/jquery-2.2.3.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/www\/js\/jquery.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/www\/js\/jquery.min.js",
+		"outputAbbreviatedPath": "\/www\/js\/min\/jquery.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

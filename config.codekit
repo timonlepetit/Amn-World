@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19127",
+"creatorBuild": "19137",
 "files": {
 	"\/platforms\/browser\/browser.json": {
 		"fileType": 524288,
@@ -447,11 +447,29 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/platforms\/browser\/www\/css\/animate.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/css\/animate.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/platforms\/browser\/www\/css\/application.css": {
 		"fileType": 16,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/platforms\/browser\/www\/css\/application.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/platforms\/browser\/www\/css\/normalize.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/css\/normalize.min.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -696,6 +714,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/platforms\/browser\/www\/img\/cis.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 205562,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/img\/cis.png",
+		"outputAbbreviatedPath": "\/platforms\/browser\/www\/img\/cis.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/platforms\/browser\/www\/img\/favicon.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -703,6 +732,160 @@
 		"initialSize": 3362,
 		"inputAbbreviatedPath": "\/platforms\/browser\/www\/img\/favicon.png",
 		"outputAbbreviatedPath": "\/platforms\/browser\/www\/img\/favicon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/platforms\/browser\/www\/img\/logos\/ace_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9794,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/ace_new.png",
+		"outputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/ace_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/platforms\/browser\/www\/img\/logos\/api_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6988,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/api_new.png",
+		"outputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/api_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/platforms\/browser\/www\/img\/logos\/bms_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18106,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/bms_new.png",
+		"outputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/bms_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/platforms\/browser\/www\/img\/logos\/cis_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8593,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/cis_new.png",
+		"outputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/cis_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/platforms\/browser\/www\/img\/logos\/daw_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11229,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/daw_new.png",
+		"outputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/daw_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/platforms\/browser\/www\/img\/logos\/dcm_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11467,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/dcm_new.png",
+		"outputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/dcm_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/platforms\/browser\/www\/img\/logos\/dor.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7901,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/dor.png",
+		"outputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/dor.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/platforms\/browser\/www\/img\/logos\/how_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16150,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/how_new.png",
+		"outputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/how_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/platforms\/browser\/www\/img\/logos\/hpg_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12500,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/hpg_new.png",
+		"outputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/hpg_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/platforms\/browser\/www\/img\/logos\/mpc_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10773,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/mpc_new.png",
+		"outputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/mpc_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/platforms\/browser\/www\/img\/logos\/r2d2_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9955,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/r2d2_new.png",
+		"outputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/r2d2_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/platforms\/browser\/www\/img\/logos\/sbx_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19071,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/sbx_new.png",
+		"outputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/sbx_new.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/platforms\/browser\/www\/img\/logos\/smx.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17425,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/smx.png",
+		"outputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/smx.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/platforms\/browser\/www\/img\/logos\/tct_new.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6195,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/tct_new.png",
+		"outputAbbreviatedPath": "\/platforms\/browser\/www\/img\/logos\/tct_new.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -815,12 +998,34 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/platforms\/browser\/www\/js\/animatedModal.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/js\/animatedModal.min.js",
+		"outputAbbreviatedPath": "\/platforms\/browser\/www\/js\/min\/animatedModal.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/platforms\/browser\/www\/js\/jquery-2.2.3.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/platforms\/browser\/www\/js\/jquery-2.2.3.min.js",
 		"outputAbbreviatedPath": "\/platforms\/browser\/www\/js\/min\/jquery-2.2.3.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/platforms\/browser\/www\/js\/jquery.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/platforms\/browser\/www\/js\/jquery.min.js",
+		"outputAbbreviatedPath": "\/platforms\/browser\/www\/js\/min\/jquery.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,

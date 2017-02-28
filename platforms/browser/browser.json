@@ -6,6 +6,7 @@
     "config_munge": {
         "files": {}
     },
+<<<<<<< HEAD
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "io.cordova.hellocordova"
@@ -16,4 +17,8 @@
     "plugin_metadata": {
         "cordova-plugin-whitelist": "1.2.1"
     }
+=======
+    "installed_plugins": {},
+    "dependent_plugins": {}
+>>>>>>> d66ab5bbd4e92560eb611affe0cdd7fd2f53e5ce
 }

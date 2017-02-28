@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.amndpi.amnworld" version="1.0.0">
   <name>amn_world_app</name>
   <description>Hello World sample application that responds to the deviceready event.</description>
+=======
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.amndpi.application" version="1.0.1">
+  <name>Amn World</name>
+  <description>Easy and Intuitive application made for learning and explain the industry of Pelletizing Tools for plastic granulation.You will find in this app access to a wide range of products to understand the process of pelletizing.</description>
+>>>>>>> d66ab5bbd4e92560eb611affe0cdd7fd2f53e5ce
   <author href="http://phonegap.com" email="support@phonegap.com">PhoneGap Team</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
